@@ -5,3 +5,8 @@ Earth's population is growing fast. According to the dataset website the populat
 
 ### Dataset
 The dataset chosen for this project is the "Who eats the food we grow?" dataset from Kaggle. The data is from the Food and Agriculture Organization of the United Nations. The format of the data is in a CSV file. The data can be accessed from the link: https://www.kaggle.com/dorbicycle/world-foodfeed-production and then by downloading it.
+
+For more information look at: 
+[Project Report](https://github.com/sitarobinson/Food-Production-Analysis/blob/master/Food%20Production%20Analysis.ipynb)
+
+You can view the notebook using nbviewer: [Link to nbviewer](https://nbviewer.jupyter.org/)
