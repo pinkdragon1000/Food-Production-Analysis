@@ -9,4 +9,4 @@ The dataset chosen for this project is the "Who eats the food we grow?" dataset 
 For more information look at: 
 [Project Report](https://github.com/sitarobinson/Food-Production-Analysis/blob/master/Food%20Production%20Analysis.ipynb)
 
-You can view the notebook using nbviewer: [Link to nbviewer](https://nbviewer.jupyter.org/)
+You can view the notebook using nbviewer without downloading jupyter notebook: [Link to nbviewer](https://nbviewer.jupyter.org/)
