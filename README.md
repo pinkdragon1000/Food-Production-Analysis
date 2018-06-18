@@ -10,3 +10,5 @@ For more information look at:
 [Project Report](https://github.com/sitarobinson/Food-Production-Analysis/blob/master/Food%20Production%20Analysis.ipynb)
 
 You can view the notebook using nbviewer without downloading jupyter notebook: [Link to nbviewer](https://nbviewer.jupyter.org/)
+
+To View Projects of Everyone in INFO 212 Class: [Click Here](https://info212drexel.github.io/201835-final-projects/)
